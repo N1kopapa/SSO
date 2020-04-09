@@ -1,0 +1,14 @@
+
+.ruc-tree {
+  li a {
+    width: calc(100% - 22px);
+    height: 30px !important;
+    line-height: 30px !important;
+  }
+  .curSelectedNode .node_name {
+    color: #ffffff !important;
+    background-color: #0099ff !important;
+    width: 100%;
+    border-radius: unset;
+  }
+}
